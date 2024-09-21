@@ -21,6 +21,7 @@ public class ArrayListExample {
 
 		//add() used to add the specified element at the end of the List
 		List<String> arrayList= new ArrayList<String>();
+		arrayList.add("Rolls Roys");
 		arrayList.add("Audi");
 		arrayList.add("Benz");
 		arrayList.add("Bugatti");
