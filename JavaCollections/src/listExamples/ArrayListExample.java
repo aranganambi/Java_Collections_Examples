@@ -25,6 +25,7 @@ public class ArrayListExample {
 		arrayList.add("Benz");
 		arrayList.add("Bugatti");
 		arrayList.add("Aston martin");
+		arrayList.add("Hyndai");
 
 		System.out.println(arrayList);
 
